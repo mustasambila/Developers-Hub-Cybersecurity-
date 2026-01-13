@@ -532,7 +532,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Project Maintainer**: GPU Tech
+- **Project Maintainer**: Mustasam Bila
 - **Implementation Date**: January 12, 2026
 - **Project Duration**: 3 weeks
 - **Status**: ✅ Complete & Production Ready
